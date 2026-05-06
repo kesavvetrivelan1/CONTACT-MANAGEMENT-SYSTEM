@@ -1,0 +1,5 @@
+com\example\sprinboot_file\SprinbootFileApplication.class
+com\example\sprinboot_file\controller\UserContactController.class
+com\example\sprinboot_file\repository\UserContactRepository.class
+com\example\sprinboot_file\service\UserContactService.class
+com\example\sprinboot_file\entity\UserContact.class
